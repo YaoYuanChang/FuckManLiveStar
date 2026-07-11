@@ -1,0 +1,16 @@
+{
+"companyName": "YaoYuanChang",
+"productName": "FuckManLiveStar(64-bit)",
+"productVersion": "1.0",
+"dataUrl": "FuckManLiveStarWebGL.data.unityweb",
+"wasmCodeUrl": "FuckManLiveStarWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "FuckManLiveStarWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.41f2"
+}
